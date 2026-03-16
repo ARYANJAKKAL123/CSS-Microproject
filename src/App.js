@@ -14,6 +14,12 @@ const tracks = [
     artist: "Artist Two",
     src: "/music/song2.mp3",
     cover: "/covers/cover2.jpg"
+  },
+  {
+    title : "Nights like this",
+    artist: "Neighbourhood",
+    src: "/music/song3.mp3",
+    cover: "/covers/cover3.jpg"
   }
 ];
 
